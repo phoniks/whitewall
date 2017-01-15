@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D0CA27CF-4740-86A6-3968-160696592915}") = "Whitewall", "Assembly-CSharp.csproj", "{C584013C-D645-1957-1C25-4A2A437C7231}"
+EndProject
+Project("{D0CA27CF-4740-86A6-3968-160696592915}") = "Whitewall", "Assembly-CSharp-Editor.csproj", "{1769400A-0369-F795-C0F2-CD1367758F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C584013C-D645-1957-1C25-4A2A437C7231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C584013C-D645-1957-1C25-4A2A437C7231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C584013C-D645-1957-1C25-4A2A437C7231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C584013C-D645-1957-1C25-4A2A437C7231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1769400A-0369-F795-C0F2-CD1367758F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1769400A-0369-F795-C0F2-CD1367758F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1769400A-0369-F795-C0F2-CD1367758F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1769400A-0369-F795-C0F2-CD1367758F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
